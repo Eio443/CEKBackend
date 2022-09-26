@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "0eiEgYvj+CgJF58HppRYgm7+mgscOZ61xrlYFy9hbGoCTCbMV+MsFx8ASv71TiF13QNedTDYu0ScAY8YQc8Aow==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\CEK\\Application\\Application.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\user\\Desktop\\CEK\\Domain\\Domain.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\user\\Desktop\\CEK\\Domain\\Domain.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\user\\Desktop\\CEK\\Persistence\\Persistence.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\user\\Desktop\\CEK\\Persistence\\Persistence.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
