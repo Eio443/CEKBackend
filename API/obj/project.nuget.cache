@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "uuUjlpDP28eLX4K3J3iMNOFUboNlEJ+JqmBn5a9itoN2jMu5ZfvdbnOOr/2Y2/3g1NC5WJgmswofGfZmW8LF2A==",
+  "dgSpecHash": "URWJKhzeUMj+0FEak9bibvr2ehe1VXb3GZ47VAuof0YCph+g5W/2U7qkZEksI0npfUG+WXFXoMa5hRQYDmkHoQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Desktop\\CEK\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.9\\microsoft.data.sqlite.core.6.0.9.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.9\\microsoft.entityframeworkcore.6.0.9.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.9\\microsoft.entityframeworkcore.abstractions.6.0.9.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.9\\microsoft.entityframeworkcore.analyzers.6.0.9.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.9\\microsoft.entityframeworkcore.design.6.0.9.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.9\\microsoft.entityframeworkcore.relational.6.0.9.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\6.0.9\\microsoft.entityframeworkcore.sqlite.6.0.9.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\6.0.9\\microsoft.entityframeworkcore.sqlite.core.6.0.9.nupkg.sha512",
