@@ -19,13 +19,17 @@ namespace API.Controllers
 
         [HttpGet]
         public async Task<ActionResult<List<Course>>> GetCourses() {
-            return await _context.Courses.ToListAsync();
+            var result  = await _context.Courses.ToListAsync();
+            return result;
         }
 
-        [HttpGet("{id}")] //courses/id
+       //[HttpGet("{id}")] //courses/id
 
+       [HttpGet("{id}")]
         public async Task<ActionResult<Course>> GetCourse(Guid id) {
-            return await _context.Courses.FindAsync(id);
+            var result = await _context.Courses.FindAsync(id);
+            return result;
+
         }
     }
 }
